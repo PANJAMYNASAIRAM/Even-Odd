@@ -1,0 +1,29 @@
+.container {
+  background-color: #ff6e7f;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  font-size: 70px;
+  font-family: Roboto;
+}
+
+.para {
+  color: #bfe9ff;
+  font-size: 30px;
+}
+
+.but {
+  height: 35px;
+  width: 130px;
+  border-radius: 10px;
+}
+
+.paratwo {
+  font-size: 20px;
+}
