@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Even-Odd/static/css/main.29bf22e2.css",
+    "main.js": "/Even-Odd/static/js/main.88c954ff.js",
+    "static/js/453.40716d19.chunk.js": "/Even-Odd/static/js/453.40716d19.chunk.js",
+    "index.html": "/Even-Odd/index.html",
+    "main.29bf22e2.css.map": "/Even-Odd/static/css/main.29bf22e2.css.map",
+    "main.88c954ff.js.map": "/Even-Odd/static/js/main.88c954ff.js.map",
+    "453.40716d19.chunk.js.map": "/Even-Odd/static/js/453.40716d19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bf22e2.css",
+    "static/js/main.88c954ff.js"
+  ]
+}
